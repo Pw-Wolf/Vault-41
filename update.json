@@ -4,12 +4,12 @@
   "pub_date": "2026-07-26T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzl3QmN0dkdCc1I5VUkzNGxLQW1neVVKK2MvSld0anNodjl4MU9qR0x1YjQxaTV5UVZLNFhQT2dLYjhTRitKYmU3YXJ0TDJNNjRMdTVVbFY3cDMrUkFBL25oRUhSM3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDIzMjM3CWZpbGU6bm90ZWxlc3NfMC4xLjJfeDY0LXNldHVwLmV4ZQpnbWN5dzBqVlBkTHp1eGhlNi9KK042WEdCbmpYSm9yS2F1cTZzMStNbkM4Z25MWjJaOHQ2R0R5TG81dGZtSUlaTHQ5c3drZ20rTWdTZUpXcGlYQlhDdz09Cg==",
-      "url": "https://github.com/<you>/noteless/releases/download/v0.1.1/noteless_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzl3QmN0dkdCc1VBNnRsR0I5MGNMY0lkTUxZNTUwQzhsbS9mSXVyYXVJMlNOTWpQK3NhQ3grNkhaY3hTazBYUmhzQk9qMFRHUW1YY2JIUjdlbzJDSG03SUNRUWovd2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDIzNDY0CWZpbGU6bm90ZWxlc3NfMC4xLjNfeDY0LXNldHVwLmV4ZQpHSXNUdUdwOGk2MWNscGhlcU5GV3ArSjVCNHExeEg3UU9ERjNJMG9PSFpYeWtGNnRHdzhIVDE3NEFtM0pYYVljV0s0ZTdBVWJDRXkvaVBvekdjY3RCQT09Cg==",
+      "url": "https://github.com/<you>/noteless/releases/download/v0.1.1/noteless_0.1.3_x64-setup.exe"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzl3QmN0dkdCc1o1dlp2YmI2aWltM2o2Z3MzalptODVlekdQc2RuNHgyQ1VxcDV0RTlFMkVxOFhYQlRQUjdKZGw3SzhLV05DeG5YaVB2ZUVTTDhyeGJXa08vZ3FzbGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDIzMjM3CWZpbGU6bm90ZWxlc3NfMC4xLjJfeDY0X2VuLVVTLm1zaQp1M1FWL2d2ZFN4WGJRd2Mxb1BXSjQ5ZnNPeFlOd1JsZEwvK0lwWG9BU01qZy9rU0t3eUtoRjc0cXdsZGRmQ0s4U25DYmFwVFdWZUVwbDlXc0hsMXpEUT09Cg==",
-      "url": "https://github.com/<you>/noteless/releases/download/v0.1.1/noteless_0.1.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzl3QmN0dkdCc1J3aXRmNFZXRGoyWmpCZHlyS29XSHk0eUtJR3BlblFybk1nd1ZuWktheXgwV1JlL292QjV5ZXN2cFNJdlRDSGltd1hnY1FRakVpUXA4cjVGS0NTMVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDIzNDY0CWZpbGU6bm90ZWxlc3NfMC4xLjNfeDY0X2VuLVVTLm1zaQpDR0tLT3JZVTRJd0pvcGF4Smw4ZlhtVUliYXMxVkw3K2lJZldXR1JZbzFJN3RkTnFKVHFkc1JyRnMxNjFHbStBQ3Y0K3pYeGNQY0hzSDhkZUI2WmZBUT09Cg==",
+      "url": "https://github.com/<you>/noteless/releases/download/v0.1.1/noteless_0.1.3_x64_en-US.msi"
     }
   }
 }
