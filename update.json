@@ -1,0 +1,19 @@
+{
+  "version": "0.1.1",
+  "notes": "Added Markdown Preview and Sync State indicators.",
+  "pub_date": "2026-07-25T14:38:29Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "CONTENT_OF_YOUR_SIG_FILE_FOR_WINDOWS",
+      "url": "https://github.com/your-username/noteless/releases/download/v1.1.0/noteless_1.1.0_x64_en-US.msi.zip"
+    },
+    "darwin-aarch64": {
+      "signature": "CONTENT_OF_YOUR_SIG_FILE_FOR_MAC_ARM",
+      "url": "https://github.com/your-username/noteless/releases/download/v1.1.0/noteless_1.1.0_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "CONTENT_OF_YOUR_SIG_FILE_FOR_LINUX",
+      "url": "https://github.com/your-username/noteless/releases/download/v1.1.0/noteless_1.1.0_amd64.AppImage.tar.gz"
+    }
+  }
+}
