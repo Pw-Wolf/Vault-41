@@ -6,12 +6,17 @@ on:
     types: [published]
 
 permissions:
-  contents: write   # needed to upload update.json back onto the release
+  contents: write   # needed to commit update.json back into the repo
 
 jobs:
   generate-update-json:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: main   # the branch your raw.githubusercontent.com URL points to
+
       - name: Download signed installer + signature from this release
         env:
           GH_TOKEN: ${{ github.token }}
@@ -62,9 +67,22 @@ jobs:
 
           cat update.json   # printed to the Actions log so you can sanity-check it
 
-      - name: Upload update.json to the release
+      - name: Commit update.json to the repo
         env:
-          GH_TOKEN: ${{ github.token }}
           TAG: ${{ github.event.release.tag_name }}
         run: |
-          gh release upload "$TAG" update.json --clobber -R "${{ github.repository }}"
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Move the generated file to the repo root (adjust path if you want it elsewhere)
+          mv update.json ./update.json
+
+          git add update.json
+
+          if git diff --cached --quiet; then
+            echo "update.json is already up to date, nothing to commit."
+          else
+            git commit -m "Update update.json for release ${TAG}"
+            git push origin HEAD:main
+          fi
