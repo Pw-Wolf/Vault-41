@@ -75,9 +75,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Move the generated file to the repo root (adjust path if you want it elsewhere)
-          mv update.json ./update.json
-
           git add update.json
 
           if git diff --cached --quiet; then
