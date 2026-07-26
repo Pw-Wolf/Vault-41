@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "",
-  "pub_date": "2026-07-26T01:47:17Z",
+  "version": "0.1.7",
+  "notes": "**Full Changelog**: https://github.com/Pw-Wolf/Vault-41/compare/0.1.6...0.1.7",
+  "pub_date": "2026-07-26T02:01:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzl3QmN0dkdCc2ZYeWRNUXpzT1pnQUlSWVBoeDB1TjkxTmVRVEh6Z1ZCMFRLenVMNFNZdDVQaEJ3WXEzNFdpa1RoZW5zekVaQWo5QStLZ3U2cjVBamNsZGdzM1pGOVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDI5MzA4CWZpbGU6bm90ZWxlc3NfMC4xLjZfeDY0X2VuLVVTLm1zaQpzT0hxVTQybWNCZERiejBLUWtVUVpjRk4zTUZoUWU1bDlHbWh3UXNwdml2NmwxK0dvRDJYSElkTHNpYjJtZWNtbFZpWEtLV0swWWxWTGtCTTUvUGNDdz09Cg==",
-      "url": "https://github.com/Pw-Wolf/Vault-41/releases/download/0.1.6/noteless_0.1.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzl3QmN0dkdCc2Jwb1NNSlpRZEtFcUw3SzlyRTV1OXluQjd6SGJ0VTVuZmJpc1oyVXdYQ3ZPaUFnaWVoY082NUxQNHdkazRrZU1jRUVtU0NJWWRJMmw4VVR3QkVHWWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDMxMjgzCWZpbGU6bm90ZWxlc3NfMC4xLjdfeDY0X2VuLVVTLm1zaQpid1MweGxBWEN4RFBlTmtidzM0aU9ReW5YMUxzSnVkVFh6dUR1SU1PQkYzc2xLN25aVzJhMUFKaTJXTTNaZzdCeDdvSUZnS1U3ZzNlQ29wRVlURjZEZz09Cg==",
+      "url": "https://github.com/Pw-Wolf/Vault-41/releases/download/0.1.7/noteless_0.1.7_x64_en-US.msi"
     }
   }
 }
