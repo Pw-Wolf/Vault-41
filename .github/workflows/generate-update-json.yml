@@ -19,10 +19,9 @@ jobs:
         run: |
           set -e
           mkdir -p assets
-          # Adjust the -p pattern if you ship .msi instead of .exe
           gh release download "$TAG" \
-            -p "*x64-setup.exe" \
-            -p "*x64-setup.exe.sig" \
+            -p "*x64_en-US.msi" \
+            -p "*x64_en-US.msi.sig" \
             -D assets \
             -R "${{ github.repository }}"
 
@@ -37,11 +36,11 @@ jobs:
 
           VERSION="${TAG#v}"   # strips a leading "v" if you tag as v0.1.4
 
-          EXE_FILE=$(ls assets/*x64-setup.exe)
-          SIG_FILE=$(ls assets/*x64-setup.exe.sig)
-          EXE_NAME=$(basename "$EXE_FILE")
+          INSTALLER_FILE=$(ls assets/*x64_en-US.msi)
+          SIG_FILE=$(ls assets/*x64_en-US.msi.sig)
+          INSTALLER_NAME=$(basename "$INSTALLER_FILE")
           SIGNATURE=$(cat "$SIG_FILE")
-          URL="https://github.com/${REPO}/releases/download/${TAG}/${EXE_NAME}"
+          URL="https://github.com/${REPO}/releases/download/${TAG}/${INSTALLER_NAME}"
 
           jq -n \
             --arg version "$VERSION" \
