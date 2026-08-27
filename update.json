@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "",
-  "pub_date": "2026-07-26T12:10:11Z",
+  "version": "0.1.9",
+  "notes": "Change to SQL using for storing data",
+  "pub_date": "2026-08-27T18:54:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzl3QmN0dkdCc1VaWU5ZcGJ6ZUJmU3gyNkFKMXF2a0Z2S0lxVkRadXpFYkdoazBUYzhHZ1VoUnpueXdid01pU2Zwak8zTzA0Y2FzZ0RyV3UrdHFYVERJeUsvYjlySFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDY3MzUwCWZpbGU6bm90ZWxlc3NfMC4xLjhfeDY0X2VuLVVTLm1zaQpiMWNsS1QwdlhqS1RZNmdjb0VVM29PandydGhNdm14bkZET21CUUpVNlNFdEJFb0tPbmNPN3VLY3NMZnVpM0FGcTZCdkRxdEo3RHdSTEozUWZLdDJBQT09Cg==",
-      "url": "https://github.com/Pw-Wolf/Vault-41/releases/download/0.1.8/noteless_0.1.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzl3QmN0dkdCc2NTOUJyMUlXbmRiQ21VcUt6Q3FvakZ3RnMyV1JKY2hHNEhJaGx1ZmFTREtWTzJmbmlGQ2M0R2FZWSttbWxTR1NKcXR6dFp4aGJUWFZDdzhpMXVIa1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODUxOTQ1CWZpbGU6bm90ZWxlc3NfMC4xLjlfeDY0X2VuLVVTLm1zaQprT2FWTDVTUVNmY0VXbzFFY2ZTdDJWMmNMcDREbFpKWTd3akNHODhLOVpDUEordWVoYVdUSk1pekZtOFZPL0NSRzRLOExiREJmQi90aXpqalVqdmJBQT09Cg==",
+      "url": "https://github.com/Pw-Wolf/Vault-41/releases/download/0.1.9/noteless_0.1.9_x64_en-US.msi"
     }
   }
 }
