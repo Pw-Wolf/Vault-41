@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Notes now have a Trash restore or permanently delete anything you removed, with a 30-day auto-cleanup. Plus a batch of editor and reliability fixes.",
-  "pub_date": "2026-08-27T21:06:54Z",
+  "version": "2.0.1",
+  "notes": "Updated UI, sync between devices",
+  "pub_date": "2026-09-29T19:17:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzl3QmN0dkdCc1FxaERaQ3J4YlVYZGpRWGRRTTVCaW9jVHo1RXJaQXhwQWNMTFBwSHhOaFZUSHdxeW54enRLclRGV0RVM0RLVFpLL0VZaENQeXFYd05aL3dqWFQ2UXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY0NTg3CWZpbGU6bm90ZWxlc3NfMC4yLjBfeDY0X2VuLVVTLm1zaQo3SlR1TUE4c2Q1MGM4Wi9YQjBHdUlwWUFNVW9rUUVQR2VMM0RLSU9mTmR0aVEzcWFJSko0a2svSVRCVFpacnVpQ1R2MWdaTjRoa0hlTlUzdFNjVFhBQT09Cg==",
-      "url": "https://github.com/Pw-Wolf/Vault-41/releases/download/0.2.0/noteless_0.2.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRKzl3QmN0dkdCc2U0bStNaHNiMm93Y1pSWEUyMDEzc1E0Nkp2UXNlSm9WT3dGdTV3b3FOYmk4UVRMK1UxdnRERksrS2tpQkl6bjRyNXNhaGRkZzcyWHFnMjFxNGxYQXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzA4NTc4CWZpbGU6bm90ZWxlc3NfMi4wLjFfeDY0X2VuLVVTLm1zaQpYbDVyZm15eFFBend0Ui9yQ0JmRE5EaS9wNUFsL0t0bXBabVF5c3pKMEQyajFvOWlTdXM5REhLSzM1OVI0eE51OEFRWm5wMFRCems3WU1aaVQxQjJDUT09Cg==",
+      "url": "https://github.com/Pw-Wolf/Vault-41/releases/download/2.0.1/noteless_2.0.1_x64_en-US.msi"
     }
   }
 }
